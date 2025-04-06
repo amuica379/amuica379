@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amuica379&layout=compact&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amuica379&layout=compact&show_icons=true&theme=highcontrast)
 
 <!--
 **amuica379/amuica379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
